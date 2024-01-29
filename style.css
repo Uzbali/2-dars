@@ -564,3 +564,14 @@ padding: 25px;
         color: #000;
     }
 
+    .banner{
+        width: 5
+        0%;
+        height: 50vh;
+        background-color: blue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 50px;
+    }
+
