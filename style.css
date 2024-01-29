@@ -1,0 +1,566 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.box {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/river-flowing-through-forest-generative-al2-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.box>h1 {
+    color: #fff;
+    text-align: center;
+    margin-left: 420px;
+    margin-top: 280px;
+    font-size: 60px;
+    position: absolute;
+}
+
+.box>h3 {
+    color: #fff;
+    margin-left: 300px;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 350px;
+    text-align: center;
+}
+
+.btn1 {
+    width: 168px;
+    height: 55px;
+    background-color: rgb(219, 193, 144);
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 480px;
+}
+
+.box>p>span{
+    border-bottom: 2px solid #fff;
+}
+
+
+.btn2 {
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 20px;
+}
+
+
+.btn2:hover{
+    background-color: #fff;
+    color: #000;
+
+}
+
+.box>p {
+    margin-top: 40px;
+    margin-left: 550px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.box>span {
+    border-bottom: 2px solid #fff;
+}
+
+.box2 {
+    width: 280px;
+    height: 230px;
+    background-color: rgb(219, 193, 144);
+    margin-left: 100px;
+    color: #fff;
+    padding: 90px 25px 15px 25px;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+
+
+
+.box2>img {
+    width: 85px;
+    height: 85px;
+}
+
+.box3 {
+    display: flex;
+    gap: 10px;
+    padding: 15px;
+}
+
+.box4 {
+    width: 100%;
+    height: 100vh;
+    margin-top: 45px;
+}
+
+.box4>h1 {
+    font-size: 60px;
+    margin-left: 450px;
+    margin-top: 250px;
+}
+
+.box4>p {
+    font-size: 20px;
+    margin-left: 400px;
+}
+
+.box6 {
+    display: flex;
+    gap: 20px;
+    padding: 15px 0 5px 155px;
+    flex-wrap: wrap;
+}
+
+.box5 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box5:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+
+.box7 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./37.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box7:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+.box8 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./fd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box8:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+
+.box9 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./lifestyle-people-living-e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box9:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+
+
+.box10 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./t5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box10:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+.box11 {
+    width: 25%;
+    height: 50vh;
+    background-image: url(./r6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+
+
+}
+
+.box11:hover {
+    font-size: 25px;
+    opacity: 1.7;
+    color: #fff;
+    padding: 125px 15px 15px 5px;
+    text-align: center;
+}
+
+.text {
+    width: 100%;
+    height: 200vh;
+    background-color: #a79770;
+    text-align: center;
+}
+
+.text>h1 {
+    font-size: 55px;
+    color: #fff;
+    margin-top: 150px;
+    margin-left: 450px;
+    position: absolute;
+}
+
+.text>p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top: 200px;
+    margin-left: 440px;
+    position: absolute;
+}
+
+.text1 {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.text2 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/1244.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 250px;
+
+
+}
+
+.text3 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/8.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 250px;
+    margin-left: 450px;
+
+
+}
+
+
+.text4 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/7894.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 950px;
+    margin-top: 250px;
+
+
+}
+
+
+.text5 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/Untitled-16.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 800px;
+
+
+}
+
+.text6 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/Untitled-164.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 800px;
+    margin-left: 450px;
+
+
+}
+
+.text7 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/79.jpg);
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 800px;
+    margin-left: 950px;
+
+}
+
+.main{
+    width: 100%;
+    height: 140vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.main>h1{
+    font-size: 65px;
+    margin-left: 450px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.main1{
+    display: flex;
+    gap: 45px;
+    margin-top: 350px;
+    margin-left: 150px;
+    position: absolute;
+}
+
+.main2{
+    width: 300px;
+    height: 300px;
+    background-image: url(./young-rural-travellers-picnic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.main2>div{
+width: 250px;
+height: 100px;
+background-color: #a79770;
+margin-top: 300px;
+margin-left: 25px;
+color: #fff;
+padding: 25px;
+}
+
+.main3{
+    width: 300px;
+    height: 300px;
+   background-image: url(./689.jpg);
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main3>div{
+    width: 250px;
+    height: 100px;
+    background-color: #a79770;
+    margin-top: 250px;
+    margin-left: 25px;
+    color: #fff;
+    padding: 25px;
+    }
+
+.main4{
+    width: 300px;
+    height: 300px;
+    background-image: url(./young-rural-travellers-picnic3t.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main4>div{
+    width: 250px;
+    height: 100px;
+    background-color: #a79770;
+    margin-top: 250px;
+    margin-left: 25px;
+    color: #fff;
+    padding: 25px;
+    }
+
+    .main5{
+        margin-top: 750px;
+        position: absolute;
+        display: flex;
+        gap: 50px;
+        line-height: 2;
+        margin-left: 100px;
+    }
+
+    .main6{
+        margin-top: 870px;
+        position: absolute;
+        display: flex;
+        gap: 105px;
+    }
+
+    .main6>h3{
+        border-bottom: 2px solid #000;
+        margin-left: 150px;
+
+    }
+
+    .container{
+        width: 100%;
+        height: 130vh;
+        background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/Untitled-16.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        padding: 45px;
+    }
+
+    .container>h1{
+        font-size: 65px;
+        margin-top: 150px;
+        margin-left: 50px;
+    }
+
+    .container>h3{
+        font-size: 25px;
+        margin-top: 100px;
+        line-height: 1.5;
+    }
+
+    .input1{
+        width: 230px;
+        height: 50px;
+        margin-left: 600px;
+     margin-top: -250px;
+        position: absolute  ;
+        border: none;
+    }
+
+    .input2{
+        width: 230px;
+        height: 50px;
+        margin-left: 850px;
+     margin-top: -250px;
+     position: absolute  ;
+     border: none;
+    }
+
+    .input3{
+        width: 400px;
+        height: 50px;
+        margin-left: 600px;
+       margin-top: -100px;
+       position: absolute;
+       border: none;
+    }
+
+    .input4{
+        width: 400px;
+        height: 50px;
+        margin-left: 600px;
+        margin-top: -100px;
+        border: none;
+    }
+
+    .button4{
+        width: 170px;
+        height: 45px;
+        background-color: transparent;
+        border-radius: 20px;
+        border: 2px solid #fff;
+        color: #fff;
+        margin-left: 120px;
+        margin-top: 25px;
+    }
+
+    .container>button:hover{
+        background-color: #fff;
+        color: #000;
+    }
+
+    .button5{
+        width: 400px;
+        height: 50px;
+        margin-top: 50px;
+        background-color:burlywood;
+        color: #fff;
+        border-radius: 20px;
+        border: none;
+        margin-left: 900px;
+      font-size: 20px;
+    }
+
+    .container2{
+        width: 120%;
+        height: 15vh;
+        background-color: #444;
+        margin-top: 45px;
+        margin-left: -100px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        margin-top: 145px;
+    }
+
+    .container2 >h3>span{
+        border-bottom: 2px solid #fff;
+    }
+
+    .container2 >h3>span:hover{
+        border: none;
+        color: #000;
+    }
+
